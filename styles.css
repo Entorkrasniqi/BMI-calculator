@@ -1,8 +1,8 @@
 body {
-    background-color: black;
+background-color: black;
 }
 #top-container h1{
-    background-color: black;
+background-color: black;
     
 
 }
@@ -11,4 +11,6 @@ font-weight: bold;
 font-family: "montserrat";
 font-size: 20px;
 color: azure;
+text-align: center;
+margin-top: 400px;
 }
