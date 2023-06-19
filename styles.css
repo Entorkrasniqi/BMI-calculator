@@ -1,11 +1,20 @@
 body {
-background-color: rgb(198, 198, 198);
+
+font-family: "Montserrat";
+color: fff;
+text-align: center;
+margin: 0;
+background-color: #f1ac5d;
 }
+
 #top-container h1{
-background-color: black;
-    
+background-color: rgb(32, 25, 25);
+margin: 0 auto;
+height: 100vh;
+
 
 }
+
 h1 {
 font-weight: bold;
 font-family: "montserrat";
@@ -14,7 +23,7 @@ color: azure;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 100vh;
+
 }
 
 
